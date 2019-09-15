@@ -7,4 +7,4 @@ Keep track of whether you've taken your action, bonus action, and/or reaction th
   <li>Click next turn when your next turn happens.</li>
   <li>Repeat (with beautiful gradients for your sense of pride and accomplishment).</li>
 </ol>
-<img src="/dnd_turn_tracker.png">
+<img src="/images/dnd_turn_tracker.png">
